@@ -2,28 +2,26 @@
 
 _In no particular order:_
 
-**TODO:** add links
-
-- What's New in Xcode App Signing
-- Swift API Design Gudilines
-- Introducing Apple File System
-- What's New in Cocoa
-- Designing for tvOS
-- What's New in Foundation for Swift
-- How iOS Security Really Works
-- What's New in Security
-- Typography and Fonts
-- Optimizing App Startu Time
-- Best Practices for Building Apps Used in Business and Education
-- Advanced Testing and Continuous Integration
-- NSURLSession: New Features and Best Practices
-- Thread Sanitizer and Static Analysis
-- Optimizing On-Demand Resources
-- Networking for the Modern Internet
-- Neural Networks and Accelerate
-- Going Server-side with Swift Open Source
-- Understanding Swift Performance
-- Optimizing I/O for Performance and Battery Life
-- What's New in Auto Layout
-- Using Time Profiler in Instruments
-- Protocol and Value Oriented Programming
+- [What's New in Xcode App Signing](https://developer.apple.com/videos/play/wwdc2016/401/)
+- [Swift API Design Guidelines](https://developer.apple.com/videos/play/wwdc2016/403/)
+- [Introducing Apple File System](https://developer.apple.com/videos/play/wwdc2016/701/)
+- [What's New in Cocoa](https://developer.apple.com/videos/play/wwdc2016/203/)
+- [Designing for tvOS](https://developer.apple.com/videos/play/wwdc2016/802/)
+- [What's New in Foundation for Swift](https://developer.apple.com/videos/play/wwdc2016/207/)
+- [How iOS Security Really Works](https://developer.apple.com/videos/play/wwdc2016/705/)
+- [What's New in Security](https://developer.apple.com/videos/play/wwdc2016/706/)
+- [Typography and Fonts](https://developer.apple.com/videos/play/wwdc2016/803/)
+- [Optimizing App Startup Time](https://developer.apple.com/videos/play/wwdc2016/406/)
+- [Best Practices for Building Apps Used in Business and Education](https://developer.apple.com/videos/play/wwdc2016/304/)
+- [Advanced Testing and Continuous Integration](https://developer.apple.com/videos/play/wwdc2016/409/)
+- [NSURLSession: New Features and Best Practices](https://developer.apple.com/videos/play/wwdc2016/711/)
+- [Thread Sanitizer and Static Analysis](https://developer.apple.com/videos/play/wwdc2016/412/)
+- [Optimizing On-Demand Resources](https://developer.apple.com/videos/play/wwdc2016/221/)
+- [Networking for the Modern Internet](https://developer.apple.com/videos/play/wwdc2016/714/)
+- [Neural Networks and Accelerate](https://developer.apple.com/videos/play/wwdc2016/715/)
+- [Going Server-side with Swift Open Source](https://developer.apple.com/videos/play/wwdc2016/415/)
+- [Understanding Swift Performance](https://developer.apple.com/videos/play/wwdc2016/416/)
+- [Optimizing I/O for Performance and Battery Life](https://developer.apple.com/videos/play/wwdc2016/719/)
+- [What's New in Auto Layout](https://developer.apple.com/videos/play/wwdc2016/236/)
+- [Using Time Profiler in Instruments](https://developer.apple.com/videos/play/wwdc2016/418/)
+- [Protocol and Value Oriented Programming](https://developer.apple.com/videos/play/wwdc2016/419/)
