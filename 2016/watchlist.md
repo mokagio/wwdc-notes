@@ -8,7 +8,6 @@ _In no particular order:_
 - [What's New in Cocoa](https://developer.apple.com/videos/play/wwdc2016/203/)
 - [Designing for tvOS](https://developer.apple.com/videos/play/wwdc2016/802/)
 - [What's New in Foundation for Swift](https://developer.apple.com/videos/play/wwdc2016/207/)
-- [How iOS Security Really Works](https://developer.apple.com/videos/play/wwdc2016/705/)
 - [What's New in Security](https://developer.apple.com/videos/play/wwdc2016/706/)
 - [Typography and Fonts](https://developer.apple.com/videos/play/wwdc2016/803/)
 - [Optimizing App Startup Time](https://developer.apple.com/videos/play/wwdc2016/406/)
@@ -24,4 +23,8 @@ _In no particular order:_
 - [Optimizing I/O for Performance and Battery Life](https://developer.apple.com/videos/play/wwdc2016/719/)
 - [What's New in Auto Layout](https://developer.apple.com/videos/play/wwdc2016/236/)
 - [Using Time Profiler in Instruments](https://developer.apple.com/videos/play/wwdc2016/418/)
+
+### Watched
+
+- [How iOS Security Really Works](https://developer.apple.com/videos/play/wwdc2016/705/)
 - [Protocol and Value Oriented Programming](https://developer.apple.com/videos/play/wwdc2016/419/)
